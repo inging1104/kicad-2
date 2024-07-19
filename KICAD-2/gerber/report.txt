@@ -1,0 +1,11 @@
+Plotted to 'C:\Users\교육실03\Desktop\미래(한승민)\KICAD-2\gerber\KICAD-2-F_Cu.gbr'.
+Plotted to 'C:\Users\교육실03\Desktop\미래(한승민)\KICAD-2\gerber\KICAD-2-B_Cu.gbr'.
+Plotted to 'C:\Users\교육실03\Desktop\미래(한승민)\KICAD-2\gerber\KICAD-2-F_Paste.gbr'.
+Plotted to 'C:\Users\교육실03\Desktop\미래(한승민)\KICAD-2\gerber\KICAD-2-B_Paste.gbr'.
+Plotted to 'C:\Users\교육실03\Desktop\미래(한승민)\KICAD-2\gerber\KICAD-2-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\교육실03\Desktop\미래(한승민)\KICAD-2\gerber\KICAD-2-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\교육실03\Desktop\미래(한승민)\KICAD-2\gerber\KICAD-2-F_Mask.gbr'.
+Plotted to 'C:\Users\교육실03\Desktop\미래(한승민)\KICAD-2\gerber\KICAD-2-B_Mask.gbr'.
+Plotted to 'C:\Users\교육실03\Desktop\미래(한승민)\KICAD-2\gerber\KICAD-2-Edge_Cuts.gbr'.
+거버 작업 파일 'C:\Users\교육실03\Desktop\미래(한승민)\KICAD-2\gerber\KICAD-2-job.gbrjob'을(를) 생성하였습니다.
+정보: 완료.
